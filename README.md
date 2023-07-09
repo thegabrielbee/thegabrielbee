@@ -3,6 +3,7 @@
 <div>
  <div align="left">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegabrielbee\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  </div> 
  </div>
 
  <div align="left">
