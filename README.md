@@ -1,13 +1,14 @@
 ### LINGUAGENS PRINCIPAIS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegabrielbee\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+ <div align="left">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegabrielbee\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
 
-
-# MEUS STATS
-
-*   Default
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegabrielbee)
+ <div align="left">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegabrielbee)
+ </div>
+</div>
  
 <div>
   <a href = "mailto:gabrielcl2727@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
